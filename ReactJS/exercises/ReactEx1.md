@@ -120,3 +120,5 @@ Create a new component called ``SignIn`` and render it so it looks like this:
 
 ![](../images/SignIn.png)
 
+
+You must include the heading, labels, text boxes and button.  
