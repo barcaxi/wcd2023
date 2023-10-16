@@ -43,7 +43,6 @@ Open project web page: [ http://localhost:5173/]( http://localhost:5173/)
 
 > Make sure you have the React app running as outlined.
 
-Let's simplify the default code given to us.
 
 1.	Using an editor open ``index.html``.  This is the default/starting web page for this project.
 
