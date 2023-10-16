@@ -50,7 +50,7 @@ Let's simplify the default code given to us.
 	```javascript
 	...
 	<body>
-		<div id="root"></div>
+	  <div id="root"></div>
 		...
 	</body>
 	</html>
@@ -75,7 +75,7 @@ Let's simplify the default code given to us.
 
 	ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
 	<React.StrictMode>
-		<App />
+	  <App />
 	</React.StrictMode>,
 	)
 	```
@@ -91,7 +91,7 @@ Let's simplify the default code given to us.
 
 	```javascript	
 	function HelloWorld(){
-		return <h1>Hello React<h1/>;
+	  return <h1>Hello React<h1/>;
 	}
 
 	export default HelloWorld;
@@ -104,7 +104,7 @@ Let's simplify the default code given to us.
 	import HelloWorld from "./HelloWorld";
 
 	function App() {
-		return <div><HelloWorld /></div>;
+	  return <div><HelloWorld /></div>;
 	}
 
 	export default App;
