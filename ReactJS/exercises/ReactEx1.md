@@ -57,11 +57,13 @@ Let's simplify the default code given to us.
 
 	```
 
-	Notice the ``<div>`` with an ``id="root"``.  It's the placeholder the React components.
+	Notice the ``<div>`` with an ``id="root"``.  This div is the placeholder for the React components.
 
-1.	Using an editor open the ``App`` component in ``src/App.tsx``.   Notice the following:
-	- the function ``App`` 
-	- the export 
+1.	Using an editor open the ``App`` component in ``src/App.tsx``.  
+
+	Notice the following:
+	- the function ``App`` that returns the component HTML content
+	- the ``export`` 
 	
 1.	Open ``src/main.tsx``.
 
@@ -102,7 +104,7 @@ Let's simplify the default code given to us.
 	import HelloWorld from "./HelloWorld";
 
 	function App() {
-	return <div><HelloWorld /></div>;
+		return <div><HelloWorld /></div>;
 	}
 
 	export default App;
