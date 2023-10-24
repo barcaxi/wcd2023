@@ -1,9 +1,9 @@
 # React.js Exercise 2 – React Event Handling 
 
-<!-- > Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help or post an *Issue* on your GitHub repository. -->
-> Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help
+<!-- > Complete ALL the exercises in this section. Ask thomas.devine@atu.ie for help or post an *Issue* on your GitHub repository. -->
+> Complete ALL the exercises in this section. Ask thomas.devine@atu.ie for help
 
-<!-- ## Fetch latest Repository Branch
+<!-- # Fetch latest Repository Branch
 
 ```
 $ cd /DRIVE/xampp/htdocs/d3
@@ -13,7 +13,7 @@ $ git status
 ``` -->
 
 
-## Part 1 - ``Teams`` Component 
+# Part 1 - ``Teams`` Component 
 
 ![](../images/Teams.png)
 
@@ -26,20 +26,20 @@ $ git status
 	![](../images/noTeams.png)
 	
 
-## Part 2 - ``MyButton`` Component 
+# Part 2 - ``MyButton`` Component 
 
 ![](../images/event1.png)
 
 1.	Create and test the ``MyButton`` component as shown in the slides/videos.  Encure you write an event handler to print a message to the console.
 	
-## Part 3 - ``Colours`` Component 
+# Part 3 - ``Colours`` Component 
 
 ![](../images/Colours.png)
 
 1.	Create and test the ``Colours`` component as shown in the slides/videos.  Make sure you print to the console the ``value`` of the colour selected.
 	
 
-## Part 4 - ``MyRadio`` Component 
+# Part 4 - ``MyRadio`` Component 
 
 ![](../images/MyRadio.png)
 
