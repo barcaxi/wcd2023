@@ -30,7 +30,7 @@ $ git status
 
 ![](../images/event1.png)
 
-1.	Create and test the ``MyButton`` component as shown in the slides/videos.  Encure you write an event handler to print a message to the console.
+1.	Create and test the ``MyButton`` component as shown in the slides/videos.  Ensure you write an event handler to print a message to the console.
 	
 # Part 3 - ``Colours`` Component 
 
