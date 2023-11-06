@@ -15,7 +15,7 @@
     import HelloWorld from "./Components/HelloWorld";
 
     function App() {
-    return <div><HelloWorld name='Bob' /></div>;
+       return <div><HelloWorld name='Bob' /></div>;
     }
 
     export default App;
