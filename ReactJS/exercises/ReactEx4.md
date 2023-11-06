@@ -5,7 +5,7 @@
 1.	Modify the ``ClickedButton`` component to include props as shown in the slides/videos.  
 
 
-## Part 2 - ``HelloWorld`` Component with Props
+# Part 2 - ``HelloWorld`` Component with Props
 
 	
 1.	Modify your `HelloWorld` component so you can pass a property `name='Bob'` like below:
