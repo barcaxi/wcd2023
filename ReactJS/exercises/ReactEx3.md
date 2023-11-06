@@ -33,7 +33,7 @@
 
 
 	
-
+<!-- 
 
 
 ## Part 2 - ``Clock`` Component
@@ -72,4 +72,4 @@
 1.	Create a new component called `Timer` in your React project `src/Components` folder.  
 
     The component should countdown from 10 to 0 (zero).
-
+ -->
