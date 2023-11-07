@@ -24,6 +24,63 @@
 1.	The component should render "Hello Bob" if it works
 
 
+# Part 3 - ``List`` Component with Props
+
+1.	Create and test the reusable ``List`` component as shown in the slides/videos.  
+
+# Part 4 - ``Message`` Component
+
+You will create a new ``Message`` component and render it.
+
+1.	Create a new component file `Message.tsx` in your project `src/Components` folder.
+
+1.	Add to `Message.tsx` the following intitial code:
+
+	```javascript
+	function Message()
+	{
+		return (
+			<div>
+			<hr/>
+			<b>name</b> time
+			<p>message</p>
+			</div>
+		);
+		
+	}
+	export default Message;
+
+	```
+
+1.	Render the ``Message`` component in the ``App.tsx`` file.  You should see this:
+
+	![](../images/Message1.png)
+
+1.	Modify the ``Message`` component to use props for the name and message.  For example, the following code in ``App.tsx``:
+
+	```javascript
+	...
+	<Message name="Alice" message="Hello Bob"/>
+	...
+	```
+
+	should render this:
+
+	![](../images/Message2.png)
+
+	Use info [here](https:/www.w3schools.com/jsref/jsref_obj_date.asp) to help display the time.
+
+1.	Modify the code in ``App.tsx`` to show multiple messages:
+
+	```javascript
+	...
+	<Message name='Alice' message='Hello there Bob' />
+	<Message name='Bob' message='How are you Alice?' />
+	...
+	```
+	
+	You should see two messages now.
+
 <!-- ## Part 3 - ``Message`` Component
 
 You will create a new ``Message`` component and render it.
