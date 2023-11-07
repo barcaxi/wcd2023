@@ -68,7 +68,7 @@ You will create a new ``Message`` component and render it.
 
 	![](../images/Message2.png)
 
-	Use info [here](https:/www.w3schools.com/jsref/jsref_obj_date.asp) to help display the time.
+	Use info [here](https://www.w3schools.com/jsref/jsref_obj_date.asp) to help display the time.
 
 1.	Modify the code in ``App.tsx`` to show multiple messages:
 
