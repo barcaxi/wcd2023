@@ -23,7 +23,7 @@ Watch the video *10. Event Handling options for Components*
 
 ## Part 3 - ``MyButton`` Revisited
 
-Revisit ``MyButton`` implemented in [React Exercise 2](./ReactEx2.md#part-2---mybutton-component) and make the button reusable by:
+Revisit ``MyButton`` implemented in [React Exercise 2](./ReactEx2.md) and make the button reusable by:
 
 - passing the button caption as a prop
 - passing the event handler as a function prop
