@@ -1,9 +1,9 @@
 # React.js Exercise 5 – ``List`` Component Event Handling
 
-There are 2 ways of implementing an event handler for a component:
+There are 2 ways (options) of implementing an event handler for a component:
 
 1.	Define the handler inside the component
-2.	Define the handlere outside the componenent and pass as a function prop
+2.	Define the handlere outside the component and pass as a function prop
 
 Part 1 and 2 below will immplement both of these solutions.
 
