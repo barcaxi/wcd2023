@@ -1,4 +1,4 @@
-# React.js Exercise 5 – ``List`` Component Event Hanlding
+# React.js Exercise 5 – ``List`` Component Event Handling
 
 There are 2 ways of implementing an event handler for a component:
 
