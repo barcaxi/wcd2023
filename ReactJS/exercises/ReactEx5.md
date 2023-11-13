@@ -20,3 +20,13 @@ Watch the video *10. Event Handling options for Components*
 
 1.	Modify/change the ``List`` component to receive the event handler as a function prop (Option 2)
 
+
+## Part 3 - ``MyButton`` Revisited
+
+Revisit ``MyButton`` implemented in [React Exercise 2](./ReactEx2.md) and make the button reusable by:
+
+- passing the button caption as a prop
+- passing the event handler as a function prop
+
+
+
