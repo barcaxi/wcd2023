@@ -3,9 +3,9 @@
 There are 2 ways (options) of implementing an event handler for a component:
 
 1.	Define the handler inside the component
-2.	Define the handlere outside the component and pass as a function prop
+2.	Define the handler outside the component and pass as a function prop
 
-Part 1 and 2 below will immplement both of these solutions.
+Part 1 and 2 below will implement both of these solutions.
 
 ## Part 1 - ``List`` Component with Event Handler Inside
 
